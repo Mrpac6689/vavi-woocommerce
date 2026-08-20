@@ -1,0 +1,7 @@
+# Dependências de ambiente
+/languages/*.po~
+/vendor/
+/node_modules/
+
+# Build
+*.zip
